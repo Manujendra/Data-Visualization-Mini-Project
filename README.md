@@ -1,4 +1,4 @@
-# Data Visualization Project ReadMe
+# Data Visualization Dashboard with more Visualizations Readme
 
 ## Instructions
 
