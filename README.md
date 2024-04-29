@@ -1,4 +1,4 @@
-# Data Visualization Mini Project ReadMe
+# Data Visualization Project ReadMe
 
 ## Instructions
 
@@ -18,7 +18,7 @@ This repository contains a small data visualization project. Follow the instruct
    - Open the provided Jupyter Notebook (.ipynb) file in your preferred environment (Jupyter Notebook IDE or Google Colab).
 
 3. **Run the Code**:
-   - Ensure you have the necessary libraries installed (e.g., Pandas, Matplotlib, Seaborn).
+   - Ensure you have the necessary libraries installed (e.g., Pandas, Matplotlib, Seaborn, Dash, plotly).
    - Execute the cells in the notebook.
    - If you're running the code locally, make sure to update the path of the dataset in the notebook to match the location where you extracted the dataset files.
 
@@ -28,12 +28,7 @@ This repository contains a small data visualization project. Follow the instruct
 
 5. **Interact with the Dashboard**:
    - Run the provided dashboard code.
-   - Access the dashboard in your web browser at the specified URL.
    - Use the dropdown menus to select different plotting options.
    - Explore the interactive visualizations and gain insights from the data.
-
-### Additional Notes
-
-- If you encounter any issues while running the code or have questions about the project, feel free to reach out to the project maintainers.
 
 - Enjoy exploring the data and visualizations!
